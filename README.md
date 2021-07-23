@@ -14,7 +14,7 @@ Lake Suğla is a karst lake located in the southeast of Konya, Turkey. In dry se
 
 #### Variance in Time
 
-We like to simplify the world around us. Nature simply does not carry such a goal. When we look at a usual RGB satellite image, we start to label structures such as mountains, agricultural fields, cities, etc. We do not stop there; we immediately think if we can calculate the areas of these structures. We never stop there either; we want more specificity: what are the classes of agricultural fields? How many of them are cotton? Can we do it automatically? (automatization :kissing_smiling_eyes:, such a fluffy word!)
+We like to simplify the world around us. Nature simply does not carry such a goal. When we look at a usual RGB satellite image, we unconsciously start to label structures such as mountains, agricultural fields, cities, etc on the image. We do not stop there; we immediately think if we can calculate the areas of these structures. We never stop there either; we want more specificity: what are the classes of agricultural fields? How many of them are cotton? Can we do it automatically? (automatization :kissing_smiling_eyes:, such a fluffy word!)
 
 You need to think a lot to find a class in your mind from the imagery. You are always looking at an RGB image with many assumptions you fill in your mind in your lifetime. The cotton fields do not label themselves as cotton fields, or trees do not know what you are thinking about them. You can only unbiasedly observe that these structures all vary in time, some are more, and some are less. The images below use different times’ [`NDVI`](https://eos.com/make-an-analysis/ndvi/) values to show you the variance in time. Similar colors seem to act similarly, but still, be careful to assume their class.
 
@@ -24,6 +24,7 @@ You need to think a lot to find a class in your mind from the imagery. You are a
 
 
 #### Computer Vision of The Edges
+
 | [Adana Ceyhan](https://github.com/bkavlak/BoundaryGEE) |
 | :---:       |
-| <img src="https://github.com/bkavlak/geospatial-artwork/blob/main/collections/boundary-delineation/boundary-delineation-GIFF.gif"> |
+| <img src="https://github.com/bkavlak/geospatial-artwork/blob/main/collections/boundary-delineation/boundary-delineation-GIFF.gif" width="900" height="600" > > |
