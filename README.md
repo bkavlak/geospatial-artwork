@@ -23,3 +23,7 @@ You need to think a lot to find a class in your mind from the imagery. You are a
 | <img src="collections/variance-in-time/vit-manisa-turgutlu-1200-1170-lq.png" width="300" height="300" >   | <img src="collections/variance-in-time/vit-aydin-soke-1200-613-lq.png" width="300" height="200" >     | <img src="collections/variance-in-time/vit-sanliurfa-ceylanpinar-1200-675-lq.png" width="300" height="300" >    |
 
 
+#### Computer Vision of The Edges
+| [Adana Ceyhan](https://github.com/bkavlak/BoundaryGEE) |
+| :---:       |
+| <img src="https://github.com/bkavlak/geospatial-artwork/blob/main/collections/boundary-delineation/boundary-delineation-GIFF.gif"> |
