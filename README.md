@@ -20,11 +20,11 @@ You need to think a lot to find a class in your mind from the imagery. You are a
 
 | [Manisa Turgutlu](https://code.earthengine.google.com/5a43eec873e1be144c425ccd0190c9da) | [Aydın Söke](https://code.earthengine.google.com/b3c376276c2cb88bb3be2bcd181ef464) | [Şanlıurfa Ceylanpınar](https://code.earthengine.google.com/5b5a77027e1353f130e9efade56cd9eb) |
 | :---:        |     :---:      |          :---: |
-| <img src="collections/variance-in-time/vit-manisa-turgutlu-1200-1170-lq.png" width="300" height="300" >   | <img src="collections/variance-in-time/vit-aydin-soke-1200-613-lq.png" width="300" height="200" >     | <img src="collections/variance-in-time/vit-sanliurfa-ceylanpinar-1200-675-lq.png" width="300" height="300" >    |
+| <img src="collections/variance-in-time/vit-manisa-turgutlu-1200-1170-lq.png" >   | <img src="collections/variance-in-time/vit-aydin-soke-1200-613-lq.png" >     | <img src="collections/variance-in-time/vit-sanliurfa-ceylanpinar-1200-675-lq.png" >    |
 
 
 #### Computer Vision of The Edges
 
 | [Adana Ceyhan](https://github.com/bkavlak/BoundaryGEE) |
 | :---:       |
-| <img src="https://github.com/bkavlak/geospatial-artwork/blob/main/collections/boundary-delineation/boundary-delineation-GIFF.gif" width="900" height="600" > > |
+| <img src="https://github.com/bkavlak/geospatial-artwork/blob/main/collections/boundary-delineation/boundary-delineation-GIFF.gif" > |
